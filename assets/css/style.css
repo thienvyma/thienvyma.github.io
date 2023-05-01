@@ -1768,7 +1768,7 @@ textarea.form-control {
   margin-right: 30px;
   font-size: 13px;
   font-weight: 700;
-  color: #222222;
+  color: #ffffff;
   margin-bottom: 0;
   position: relative;
   z-index: 1;
@@ -6663,8 +6663,8 @@ textarea.form-control {
   left: 2px;
   height: calc(100% + 8px);
   display: block;
-  border-radius: 2px;
-  border: 1px solid #d3a971;
+  border-radius: 5px;
+  border: 2px solid #d3a971;
 }
 
 .menu-container {
