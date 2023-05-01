@@ -46,7 +46,7 @@ body {
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #2f1414;
   font-family: "Mali";
   font-size: 14px;
   font-weight: 400;
@@ -1137,7 +1137,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #282828;
+  color: #ffffff;
   font-family: "Mali";
   font-weight: 600;
   line-height: 1.2;
@@ -2933,7 +2933,7 @@ textarea.form-control {
 
   .header .navbar,
   .header-transparent .navbar {
-    background-color: #ffffff;
+    background-color: #2f1414;
   }
 
   .header .logo-dark,
@@ -2959,7 +2959,7 @@ textarea.form-control {
   .header-transparent .navbar .navbar-toggler .menu-lines:before,
   .header-transparent .navbar .navbar-toggler .menu-lines:after,
   .header-transparent .navbar .navbar-toggler .menu-lines span {
-    background-color: #222222;
+    background-color: #ffffff;
   }
 
   .header .navbar-expand-lg>.container,
