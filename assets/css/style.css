@@ -1176,7 +1176,7 @@ h6 {
 }
 
 .heading__subtitle {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   color: #d3a971;
   display: block;
@@ -1241,7 +1241,7 @@ h6 {
 }
 
 .pagetitle__subheading {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   color: #f9f9f9;
   display: block;
@@ -3289,7 +3289,7 @@ textarea.form-control {
 
 .text-banner .banner__subtitle {
   display: block;
-  font-family: "Kristi";
+  font-family: "mali";
   color: #ffffff;
   font-size: 40px;
   margin-bottom: 10px;
@@ -3744,7 +3744,7 @@ textarea.form-control {
 }
 
 .slider .slide__subtitle {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   color: #f9f9f9;
   margin-bottom: 10px;
@@ -3759,7 +3759,7 @@ textarea.form-control {
 }
 
 .slider .slide__desc {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   color: #f9f9f9;
   margin-bottom: 30px;
@@ -3976,7 +3976,7 @@ textarea.form-control {
 }
 
 .feature-item .feature__title {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 35px;
   font-weight: 400;
   margin-bottom: 0;
@@ -4019,7 +4019,7 @@ textarea.form-control {
 }
 
 .fancybox-item .fancybox__title {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   font-weight: 400;
   margin-bottom: 14px;
@@ -4560,7 +4560,7 @@ textarea.form-control {
 }
 
 .testimonial__meta .testimonial__meta-desc {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 28px;
   margin-bottom: 0;
 }
@@ -4680,13 +4680,13 @@ textarea.form-control {
 }
 
 .cta__actions-text span {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   line-height: 1;
 }
 
 .cta-layout2 .cta__subtitle {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 40px;
   color: #ffffff;
 }
@@ -6822,7 +6822,7 @@ textarea.form-control {
 
 .reservation__banner .reservation__banner-inner-subtitle,
 .reservation__banner .reservation__banner-contact-label {
-  font-family: "Kristi";
+  font-family: "mali";
   font-size: 30px;
   color: #d3a971;
   display: block;
